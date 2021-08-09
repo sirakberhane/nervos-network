@@ -7,3 +7,4 @@
 https://explorer.nervos.org/aggron/address/ckt1qyqzdq40pfmu2tzzn3vzn6uc9yehjja4ml7stp3zgj
 
 ### Deposit some CKBytes on Layer 2
+![Deposit](https://github.com/sirakberhane/nervos-network/blob/main/task1/deposit_on_layer2.PNG)
